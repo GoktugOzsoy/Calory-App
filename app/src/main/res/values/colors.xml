@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="Dark_Wood">#563232</color>
+    <color name="Light_Wood">#ffc18c</color>
+    <color name="Wood_Bird">#84240c</color>
+    <color name="Close_Orange">#da6d42</color>
+    <color name="Cream">#e7cfb4</color>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808005291697",
+    "project_id": "calory-app-1ba96",
+    "storage_bucket": "calory-app-1ba96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808005291697:android:4c2d709ecbb9f129871c90",
+        "android_client_info": {
+          "package_name": "com.example.caloryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWkREVy2zCstBkYce102s65IfXyxBt5Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
